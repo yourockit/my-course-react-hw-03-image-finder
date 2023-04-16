@@ -34,7 +34,6 @@ render() {
                 modalImg={largeImageURL}
                 tags={tags}
                 closeModal={this.closeModal}
-                isModalOpen={isModalOpen}
                 />
             )}
         </Container>
